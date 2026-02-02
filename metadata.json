@@ -1,0 +1,7 @@
+{
+  "name": "Air Canvas AR Toy",
+  "description": "A magical AR drawing board where you paint in the air with your finger. World-locked 3D strokes using WebXR and Computer Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
